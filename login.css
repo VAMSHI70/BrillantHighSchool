@@ -9,7 +9,7 @@
 
 
 body {
-    background-image: url('/BrillanthighSchool-main/j.png'); /* Replace "your-image-url.jpg" with the URL or path to your image */
+    background-image: url('j.png'); /* Replace "your-image-url.jpg" with the URL or path to your image */
     background-size: cover; /* This ensures the image covers the entire background */
     background-repeat: no-repeat; /* Prevents the image from repeating */
     display: flex;
